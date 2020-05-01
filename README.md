@@ -3,7 +3,7 @@ Team: Ronald Thompson, Jonathan Prindle, Saloni Sharma
 
 
 ## Description
-Using various data mining methods,primarily k-means clustering, we analyzed rideshare data from New York City and Chicago to discover patterns that can improve customer experiences and optimize profits for the rideshare drivers and companies.
+Using various data mining methods, primarily k-means clustering, we analyzed rideshare data from New York City and Chicago to discover patterns that can improve customer experiences and optimize profits for the rideshare drivers and companies.
 
 ## Questions 
 As a curious bunch, we had many questions relating to our data. Here are a few:
