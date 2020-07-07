@@ -6,5 +6,15 @@ The data sets utilized in this analysis can be found [here](https://www.kaggle.c
 The data sets were reduced to include data points from only April, May and June, which are the overlapping months included in both data sets. The data was further transformed for location analysis in order to plot coordinates and for datetime analysis in order to chart and cluster time data.
 
 ### Results
-The jupyter notebooks in this section include various charts and maps that can give a more detailed look into some of our results. We have been able to determine peak times of rideshare usage as well as the most common locations where rideshares occur.
+The jupyter notebooks in this section include various charts and maps that can give a more detailed look into some of our results. We have been able to determine peak times of rideshare usage as well as the most common locations where rideshares start.
 
+This map based on 2014 data shows locations that are most in demand for rideshares:
+![](https://github.com/s-saloni/Rideshare-Patterns/blob/master/Uber_Analysis/Charts/Uber2014Map.png)
+
+The two charts below visualize the result of using k-means clustering to extract peak times of rideshare usage. The first one is for Mondays in 2014:
+![](https://github.com/s-saloni/Rideshare-Patterns/blob/master/Uber_Analysis/Charts/Uber_Mon2014.png)
+
+The second is for Saturdays in 2014:
+![](https://github.com/s-saloni/Rideshare-Patterns/blob/master/Uber_Analysis/Charts/Uber_Sat2014.png)
+
+Here, you can note that peak times on Mondays (weekdays) are different from Saturdays (weekends).
